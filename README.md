@@ -56,7 +56,7 @@ _We want you to get the most out of this project—it's all about learning, cont
 
 Kindly go through [CONTRIBUTING.md](https://github.com/krishnaacharyaa/wanderlust/blob/main/.github/CONTRIBUTING.md) to understand everything from setup to contributing guidelines.
 
-If you would like to contribute to the project, please follow our contribution guidelines.
+If you would like to a contribute to the project, please follow our contribution guidelines.
 
 <hr>
 <!-- Open Source Programs -->
